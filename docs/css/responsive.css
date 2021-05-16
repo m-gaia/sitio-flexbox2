@@ -1,0 +1,99 @@
+
+        
+
+
+@media screen and (max-width: 640px){
+
+
+
+    .navbar {
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: flex-start;
+    }
+
+    .navbar>ul {
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .navbar img {
+        width: 8rem;
+    }
+
+    .navbar a {
+        font-size: 1rem;
+    }
+
+    #redes i {
+        font-size: 1rem;
+    }
+
+    #principal {
+        height: auto;
+        background-position: right;
+        background-repeat: no-repeat;
+        background-color: var(--black2);
+        background-image: url(../img/lu-fondo1.jpg);
+        background-size: cover;
+        /* background-attachment: fixed; */
+    }
+
+    .principal-container {
+        padding: 0rem;
+        width: 100%;
+    }
+
+    #principal button {
+        margin-bottom: 3rem;
+        padding: 1rem;
+    }
+
+    .carousel, .carousel-inner > .carousel-item > img {
+        height: auto;
+      }
+
+    .container-cards {
+        width: 100%;
+        flex-direction: column;
+        background-color: var(--black1);
+    }
+
+    #contacto {
+        height: 20%;
+    }
+
+    .contacto-container {
+        flex-wrap: wrap;
+    }
+
+    #mapa {
+        width: 80%;
+        margin: 1rem;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    iframe {
+        justify-content: center;
+        width: 150;
+        height: 200;
+    }
+
+    #inscripcion .title-cabecera {
+        padding: 0.5rem;
+    }
+
+    .footer-container {
+        flex-direction: column;
+        flex-wrap: wrap;
+        height: 15vh;
+    }
+
+    video {
+        width: 50vw;
+      }
+
+
+}
+
