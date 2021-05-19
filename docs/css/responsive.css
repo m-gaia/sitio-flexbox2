@@ -44,6 +44,10 @@
         width: 100%;
     }
 
+    #principal h1 {
+        color: var(--light-grey);
+    }
+
     #principal button {
         margin-bottom: 3rem;
         padding: 1rem;
@@ -52,6 +56,7 @@
     .carousel, .carousel-inner > .carousel-item > img {
         height: auto;
       }
+
 
     .container-cards {
         width: 100%;
@@ -94,6 +99,9 @@
         width: 50vw;
       }
 
+    #footer-redes i {
+        font-size: 2rem;
+    }
 
 }
 

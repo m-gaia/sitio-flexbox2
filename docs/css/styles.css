@@ -460,6 +460,11 @@ footer {
         text-transform: uppercase;
     }
 
+#footer-redes a {
+    padding: 1rem;
+    color: var(--light-grey);
+    text-decoration: none;
+}
 
 
 
