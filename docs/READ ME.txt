@@ -1,0 +1,7 @@
+﻿--------------------------
+----------------------------------
+Es la primera vez que maqueto con flexbox y quisiera hacer un menu desplegable responsivo 
+
+-----------------------------
+---------------------------------
+Quisiera trabajar en netifly desde git y actualizarlo sin estar cargando docs manualmente 
